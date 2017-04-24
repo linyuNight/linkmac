@@ -23,7 +23,7 @@ tmp/
 temp/
 platforms/
 android.json
-plugins/ios.json/
+plugins/ios.jsonwww/
 $RECYCLE.BIN/
 
 .DS_Store
